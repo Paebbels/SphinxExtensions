@@ -43,7 +43,7 @@ with open("README.md", "r") as file:
 
 setuptools.setup(
 	name="SphinxExtensions",
-	version="0.1.0",
+	version="0.1.1",
 	author="Patrick Lehmann",
 	author_email="Paebbels@gmail.com",
 	description="Extensions for the Sphinx documentation tool.",

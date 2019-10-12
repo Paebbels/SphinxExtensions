@@ -9,7 +9,7 @@
 
 # SphinxExtensions
 
-Description
+Extensions for the Sphinx documentation tool.
 
 
 ## Contributors:

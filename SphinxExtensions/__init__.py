@@ -42,6 +42,12 @@ __all__ = __api__
 
 
 class DocumentMemberAttribute(Attribute):
+	"""
+	This pyAttribute allows users to enable or disable the automated documentation
+	of class members with Sphinx.
+	"""
+
 	def __init__(self, value=True):
+		"""Constructor."""
 		super().__init__()
 		self.value = value

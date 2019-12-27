@@ -53,7 +53,7 @@ rtd_url =     "https://" + projectName + ".readthedocs.io/en/latest/"
 
 setuptools.setup(
 	name=projectName,
-	version="0.1.4",
+	version="0.2.0",
 
 	author="Patrick Lehmann",
 	author_email="Paebbels@gmail.com",
@@ -81,7 +81,8 @@ setuptools.setup(
 		"Programming Language :: Python :: 3.6",
 		"Programming Language :: Python :: 3.7",
 		"Programming Language :: Python :: 3.8",
-		"Development Status :: 5 - Production/Stable",
+		"Development Status :: 4 - Beta",
+#		"Development Status :: 5 - Production/Stable",
 		"Framework :: Sphinx :: Extension",
 		"Topic :: Utilities"
 	],

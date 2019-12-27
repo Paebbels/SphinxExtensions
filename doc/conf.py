@@ -26,7 +26,7 @@ copyright = '2007-2019, Patrick Lehmann'
 author = 'Patrick Lehmann'
 
 # The full version, including alpha/beta/rc tags
-release = 'v0.1'
+release = 'v0.2'
 
 
 # -- General configuration ---------------------------------------------------
